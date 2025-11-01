@@ -53,7 +53,7 @@ Dataset used: [Titanic: Machine Learning from Disaster (Kaggle)](https://www.kag
 ## 💡 Author
 **Sarosh Ramzani**  
 *Data Analytics | Python | Visualization*  
-📧 Email: saroshramzani@gmail.com *(if you want to include)*  
+📧 Email: saroshramzani@gmail.com 
 
 ---
 
